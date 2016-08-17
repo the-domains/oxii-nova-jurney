@@ -1,9 +1,9 @@
 ---
 at__type: Article
 at__context: 'http://schema.org'
-title: OXII NOVA JURNEY
-datePublished: '2016-08-17T17:21:18.708Z'
-dateModified: '2016-08-17T17:21:13.776Z'
+title: ''
+datePublished: '2016-08-17T17:24:49.387Z'
+dateModified: '2016-08-17T17:24:46.259Z'
 publisher: {}
 author: []
 inFeed: true
@@ -14,6 +14,4 @@ sourcePath: _posts/2016-08-17-success-one-breath-away.md
 _type: Blurb
 
 ---
-# OXII NOVA JURNEY
-
 Success, one breath away!
