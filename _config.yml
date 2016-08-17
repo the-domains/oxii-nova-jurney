@@ -1,0 +1,26 @@
+name: OXII NOVA JURNEY
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0439358b-29ce-40c1-8611-ff60823860bc.png
+layout_spectrum: 0.049580714340868304
+typography_spectrum: 0.4829168621792742
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  brandStrength: 0.6530376331200703
+  lightness: 0.20470167463648015
+  saturation: 0.4896758205064038
+  rhythmicContrast: 0.5579610572632209
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
